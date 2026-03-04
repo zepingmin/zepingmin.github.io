@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zeping Min! I'm an LLM Researcher at Alibaba DAMO Academy. I am fortunate to work on cutting-edge problems in large language models. My research focuses on understanding and improving the fundamental aspects of LLMs, particularly model parameter structures, output robustness, and optimization techniques.
+Hi, I'm Zeping Min. I'm an LLM Researcher at Alibaba DAMO Academy. I am fortunate to work on cutting-edge problems in large language models. My research focuses on understanding and improving the fundamental aspects of LLMs, particularly model parameter structures, output robustness, and optimization techniques.
 
 My work lies at the intersection of deep learning theory and practical LLM applications. I'm especially interested in how the internal structures and parameters of LLMs influence their behavior and performance, as well as developing methods to enhance the reliability and robustness of model outputs. Through this research, I aim to build more efficient, stable, and trustworthy language models.
 
