@@ -6,7 +6,7 @@ permalink: /publication/2026-resilibench
 excerpt: "This paper introduces ResiliBench, a benchmark for evaluating agentic workflow adaptation in stochastic environments."
 date: 2026-01-01
 venue: "International Conference on Learning Representations (ICLR 2026)"
-citation: "Ao, R., Min, Z., Zhu, T., Yin, W., and Wang, X. (2026). ResiliBench: Evaluating Agentic Workflow Adaptation in Stochastic Environments. <i>International Conference on Learning Representations (ICLR 2026)</i>."
+authors: "Ruicheng Ao, Zeping Min, Tingyu Zhu, Wotao Yin, Xinshang Wang"
 ---
 
 This paper presents ResiliBench, a comprehensive benchmark for evaluating how agentic workflows adapt to stochastic environments, providing systematic evaluation metrics and methodology for assessing agent resilience.

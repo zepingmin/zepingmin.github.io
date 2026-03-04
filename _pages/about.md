@@ -10,7 +10,7 @@ redirect_from:
 ## Timeline
 
 **Alibaba DAMO Academy** (2024 - Present)
-_Research Scientist_
+_LLM Researcher_
 
 - Focus on Large Language Models and Deep Learning
 
