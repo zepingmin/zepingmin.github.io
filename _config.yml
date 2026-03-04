@@ -27,7 +27,7 @@ author:
   avatar: "profile.png"
   name: "Zeping Min"
   pronouns: # example: "she/her"
-  bio:
+  bio: "LLM Researcher @ Alibaba DAMO Academy. Ph.D. from Peking University. My research focuses on LLMs, including model parameter structures, output robustness, and optimization. Feel free to reach out for discussions and collaborations!"
   location:
   employer:
   uri: # URL
