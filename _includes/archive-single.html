@@ -38,7 +38,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.authors %}
-            {% assign formatted_authors = post.authors | replace: "Zeping Min", "<b><i>Zeping Min</i></b>" %}
+            {% assign formatted_authors = post.authors | replace: "Z. Min", "<b><i>Z. Min</i></b>" %}
             <p>{{ formatted_authors }}</p>
           {% endif %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
