@@ -8,6 +8,6 @@ venue: "International Conference on Learning Representations (ICLR 2026)"
 authors: "R. Ao*, Z. Min*, T. Zhu*, W. Yin, X. Wang (*Equal contribution)"
 ---
 
-**Authors**: R. Ao* (MIT), Z. Min* (Alibaba Group US, DAMO Academy), T. Zhu\* (UC Berkeley), W. Yin (Alibaba Group US, DAMO Academy), X. Wang (Alibaba Group US, DAMO Academy)
+**Authors**: R. Ao*, Z. Min*, T. Zhu\*, W. Yin, X. Wang
 
 \*Equal contribution
