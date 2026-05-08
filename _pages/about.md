@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zeping Min, an LLM Researcher at Alibaba DAMO Academy. My research focuses on the fundamental properties of LLMs and their applications in agentic systems, with a particular emphasis on solving optimization problems.
+Hi, I'm Zeping Min, an LLM Researcher at Alibaba DAMO Academy. My research centers on building reliable LLM agents for optimization modeling — turning natural-language problems into solvable mathematical programs — informed by a parallel line of work on the intrinsic properties of large language models.
 
 I'm always open to collaborate on related topics. Feel free to reach out for discussions and potential collaborations!
 
