@@ -3,7 +3,6 @@ title: "Towards Document-level Event Extraction via Binary Contrastive Generatio
 collection: publications
 category: manuscripts
 permalink: /publication/2024-document-event
-excerpt: "This paper explores document-level event extraction using binary contrastive generation methods."
 date: 2024-01-01
 venue: "Knowledge-Based Systems"
 authors: "G. Huang, Z. Min, Q. Ge, Z. Yang"

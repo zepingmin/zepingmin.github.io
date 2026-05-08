@@ -3,7 +3,6 @@ title: "ResiliBench: Evaluating Agentic Workflow Adaptation in Stochastic Enviro
 collection: publications
 category: conferences
 permalink: /publication/2026-resilibench
-excerpt: "This paper introduces ResiliBench, a benchmark for evaluating agentic workflow adaptation in stochastic environments."
 date: 2026-01-01
 venue: "International Conference on Learning Representations (ICLR 2026)"
 authors: "R. Ao*, Z. Min*, T. Zhu*, W. Yin, X. Wang (*Equal contribution)"
