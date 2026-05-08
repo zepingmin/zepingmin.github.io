@@ -8,5 +8,3 @@ date: 2024-03-01
 venue: "Proceedings of the 38th AAAI Conference on Artificial Intelligence"
 authors: "Z. Min, J. Bai, C. Li"
 ---
-
-This paper introduces a novel pseudo-label selection technique based on local variance, significantly improving the performance of semi-supervised learning algorithms by filtering out unreliable pseudo-labels.

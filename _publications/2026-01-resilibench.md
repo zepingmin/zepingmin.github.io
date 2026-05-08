@@ -9,8 +9,6 @@ venue: "International Conference on Learning Representations (ICLR 2026)"
 authors: "R. Ao*, Z. Min*, T. Zhu*, W. Yin, X. Wang (*Equal contribution)"
 ---
 
-This paper presents ResiliBench, a comprehensive benchmark for evaluating how agentic workflows adapt to stochastic environments, providing systematic evaluation metrics and methodology for assessing agent resilience.
-
 **Authors**: R. Ao* (MIT), Z. Min* (Alibaba Group US, DAMO Academy), T. Zhu\* (UC Berkeley), W. Yin (Alibaba Group US, DAMO Academy), X. Wang (Alibaba Group US, DAMO Academy)
 
 \*Equal contribution
