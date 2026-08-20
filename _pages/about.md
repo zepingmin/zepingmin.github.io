@@ -9,8 +9,6 @@ redirect_from:
 
 Hi, I'm Zeping Min, an LLM Researcher at Alibaba DAMO Academy. My research focuses on training reasoning models with reinforcement learning for multi-turn code generation, and on rigorously evaluating the robustness of agentic systems in stochastic, real-world environments. I am also interested in the intrinsic properties of large language models.
 
-I'm always open to collaborate on related topics. Feel free to reach out for discussions and potential collaborations!
-
 Before joining Alibaba DAMO Academy, I received my Ph.D. degree in Computational Mathematics from Peking University in July 2024, where I was advised by Prof. Weinan E (Academician). Prior to that, I obtained my bachelor's degree from School of Mathematical Sciences, Nankai University in July 2019.
 
 ## Timeline
@@ -43,3 +41,5 @@ _B.S. in Mathematics_ (Boling Class)
 
 - **Email**: zpm@pku.edu.cn
 - **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=7Mu8EaoAAAAJ)
+
+I'm always open to collaborate on related topics. Feel free to reach out for discussions and potential collaborations!
