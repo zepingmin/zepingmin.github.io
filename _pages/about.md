@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zeping Min, an LLM Researcher at Alibaba DAMO Academy. My research focuses on training LLM agents with reinforcement learning for complex reasoning. I am also interested in the intrinsic properties of large language models and the robustness of agentic systems in stochastic, real-world environments.
+Hi, I'm Zeping Min, an LLM Researcher at Alibaba DAMO Academy. My research focuses on training reasoning models with reinforcement learning for multi-turn code generation, and on rigorously evaluating the robustness of agentic systems in stochastic, real-world environments. I am also interested in the intrinsic properties of large language models.
 
 I'm always open to collaborate on related topics. Feel free to reach out for discussions and potential collaborations!
 
